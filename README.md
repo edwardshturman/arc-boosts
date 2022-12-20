@@ -2,7 +2,7 @@
 
 # Arc Boosts
 
-🎨 Fun stylistic Boosts (extensions) for the Arc Browser
+— Fun stylistic Boosts (extensions) for the Arc Browser that use your theme to colorize the page 🎨
 
 ## About
 
