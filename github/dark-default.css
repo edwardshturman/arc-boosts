@@ -1,0 +1,52 @@
+/**
+ * Arc Boost — GitHub Dark Default
+ * Author: @edwardshturman
+ * Version: 1.0.0
+ */
+
+:root {
+    /* Background colors */
+    --color-header-bg: var(--arc-palette-background) !important;
+    --color-page-header-bg: var(--arc-palette-backgroundExtra) !important;
+    --color-canvas-default: var(--arc-palette-backgroundExtra) !important;
+    --color-canvas-subtle: var(--arc-palette-background) !important;
+    --color-canvas-inset: var(--arc-palette-backgroundExtra) !important;
+  
+    /* Primary buttons */
+    --color-btn-primary-bg: var(--arc-palette-cutoutColor) !important;
+    --color-btn-outline-text: var(--arc-palette-title) !important;
+    --color-btn-primary-hover-bg: var(--arc-palette-hover) !important;
+    --color-btn-primary-selected-bg: var(--arc-palette-focus) !important;
+    --color-btn-primary-disabled-bg: var(--arc-palette-subtitle) !important;
+  
+    /* Secondary buttons */
+    --color-btn-bg: var(--arc-palette-background) !important;
+    --color-btn-outline-hover-text: var(--arc-palette-title) !important;
+    --color-btn-outline-hover-bg: var(--arc-palette-hover) !important;
+    --color-btn-outline-selected-bg: var(--arc-palette-focus) !important;
+    --color-btn-counter-bg: var(--arc-palette-hover) !important; /* Counters i.e. Watch, Fork, Star */
+    --color-btn-hover-bg: var(--arc-palette-hover) !important;
+    --color-btn-hover-border: var(--arc-palette-subtitle) !important;
+    --color-btn-active-bg: var(--arc-palette-focus) !important;
+    --color-btn-active-border: var(--arc-palette-subtitle) !important;
+  
+    /* Search bar */
+    --color-header-search-bg: var(--arc-palette-backgroundExtra) !important;
+    --color-header-search-border: var(--arc-palette-hover) !important;
+  
+    /* Repo labels */
+    --color-accent-subtle: var(--arc-palette-background) !important; /* Background */
+    --color-accent-emphasis: var(--arc-palette-hover) !important; /* Hover */
+  
+    /* Text */
+    --color-fg-default: var(--arc-palette-title) !important;
+    --color-accent-fg: var(--arc-palette-foregroundPrimary) !important; /* Links */
+    --color-primer-fg-disabled: var(--arc-palette-subtitle) !important; /* Disabled counter */
+  
+    /* Menu items */
+    --color-primer-border-active: var(--arc-palette-foregroundPrimary) !important;
+    --color-canvas-overlay: var(--arc-palette-backgroundExtra) !important;
+  
+    /* "Add a README" border */
+    --color-accent-muted: var(--arc-palette-hover) !important;
+  }
