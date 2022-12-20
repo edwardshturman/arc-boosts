@@ -1,3 +1,5 @@
+![Arc Boosts by @edwardshturman](https://repository-images.githubusercontent.com/580557913/f69cdc32-fbc2-4e28-81a3-1de565167528)
+
 # Arc Boosts
 
 🎨 Fun stylistic Boosts (extensions) for the Arc Browser
@@ -10,7 +12,7 @@ If you like what you find, a ⭐ on the repo and/or a follow on [Twitter](https:
 
 ## Usage
 
-1. Grab an Arc invite and get set up (not giving them out at the moment 👺 sorry!).
+1. Grab an Arc invite and get set up (not giving them out at the moment, sorry!).
 2. Navigate to a page you'd like to stylize with a Boost I've made, i.e. [GitHub](/github).
 3. Click the `+` icon at the bottom-right of the sidebar and hit `New Boost`, then `Style`.
 4. Remove the boilerplate code and paste mine. Voilà!
