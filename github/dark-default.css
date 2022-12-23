@@ -4,16 +4,23 @@
  * Version: 1.0.0
  */
 
+/* Only change these when dark mode is active */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-header-bg:        var(--arc-palette-background)      !important;
+    --color-page-header-bg:   var(--arc-palette-backgroundExtra) !important;
+    --color-header-search-bg: var(--arc-palette-backgroundExtra) !important;
+    --color-btn-primary-bg:   var(--arc-palette-cutoutColor)     !important;
+  }
+}
+
 :root {
     /* Background colors */
-    --color-header-bg: var(--arc-palette-background) !important;
-    --color-page-header-bg: var(--arc-palette-backgroundExtra) !important;
     --color-canvas-default: var(--arc-palette-backgroundExtra) !important;
     --color-canvas-subtle: var(--arc-palette-background) !important;
     --color-canvas-inset: var(--arc-palette-backgroundExtra) !important;
   
     /* Primary buttons */
-    --color-btn-primary-bg: var(--arc-palette-cutoutColor) !important;
     --color-btn-outline-text: var(--arc-palette-title) !important;
     --color-btn-primary-hover-bg: var(--arc-palette-hover) !important;
     --color-btn-primary-selected-bg: var(--arc-palette-focus) !important;
@@ -31,7 +38,6 @@
     --color-btn-active-border: var(--arc-palette-subtitle) !important;
   
     /* Search bar */
-    --color-header-search-bg: var(--arc-palette-backgroundExtra) !important;
     --color-header-search-border: var(--arc-palette-hover) !important;
   
     /* Repo labels */
@@ -49,4 +55,4 @@
   
     /* "Add a README" border */
     --color-accent-muted: var(--arc-palette-hover) !important;
-  }
+}
